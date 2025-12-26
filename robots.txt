@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://glittery-crumble-cef3cb.netlify.app/sitemap.xml
